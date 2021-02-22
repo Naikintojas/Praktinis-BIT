@@ -1,0 +1,26 @@
+.header-nav{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    &__logo {
+        width: rem(15);
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+    }
+    &__menu {
+        margin-left: 13%;
+        float: left;
+    }
+    &__menu-text {
+        display: inline-block;
+        padding: rem(20);
+        text-decoration: none;
+        font-family: 'Lato', sans-serif;
+        font-size: rem(17);
+        line-height: rem(26);
+        font-weight: 700;
+        color: rgb(56, 54, 54);
+        letter-spacing: rem(2);
+    }
+}

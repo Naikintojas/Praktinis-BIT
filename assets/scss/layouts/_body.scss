@@ -1,0 +1,26 @@
+*{
+    outline: 1px solid blue;
+}
+body {
+    margin: 0;
+    line-height: 20px;
+    /* background-color: brown; */
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 45px;
+    display: block;
+}
+.bottom{
+    padding-bottom: rem(45);
+}
+.section {
+    overflow: hidden;
+    width: 100%;
+    padding-right: 75px;
+    padding-left: 75px;
+    clear: left;
+}
