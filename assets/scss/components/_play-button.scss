@@ -1,0 +1,21 @@
+.second-article__second-colum-item-button {
+    display: flex;
+    position: absolute;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    left: 35%;
+    top: 50%;
+    bottom: auto;
+    margin-left: 11px;
+    margin-right: auto;
+    border-radius: 100%;
+    width: 75px;
+    height: 75px;
+    background-color: #5DA8EF
+}
+.second-article__second-colum-item-button-play {
+    margin: auto;
+    color: white;
+}
